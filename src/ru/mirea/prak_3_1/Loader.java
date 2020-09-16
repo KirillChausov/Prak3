@@ -18,6 +18,5 @@ public class Loader {
         System.out.println("Координаты центра окружности: (" + b.getX() + "; " + b.getY() + ")");
         System.out.print("Площадь окружности: ");
         System.out.format("%.3f%n", b.calcS());
-
     }
 }
